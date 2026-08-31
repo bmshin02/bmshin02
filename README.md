@@ -1,66 +1,50 @@
 # Hi, I'm Brandon Shin 👋
 
-I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Computer Science from UC Riverside. I enjoy building practical, user-focused software across full-stack development, AI, interactive applications, and systems.
+I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Computer Science from UC Riverside. I enjoy building practical software across full-stack development, AI, educational technology, and interactive applications.
 
-I'm currently expanding my experience with modern web technologies and AI while looking for opportunities to contribute, learn, and grow as a software engineer.
+[Portfolio](https://bmshin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bmshin02/) · [Email](mailto:bmshin02@gmail.com)
 
 ## About Me
 
-- 🎓 M.S. in Software Engineering student at **UC Irvine**
-- 🏫 B.S. in Computer Science from **UC Riverside**
-- 🧠 Currently learning more about **AI-powered applications and scalable software systems**
-- 🎮 Built interactive Roblox experiences with **50,000+ total visits**
-- 📹 Built a web app that contributed to an **increase of ~4,000 subscribers on YouTube in a short time frame**
-- 🧪 Built educational apps that **enhanced undergraduate learning and gained overwhelmingly positive feedback**
-- 🤝 Open to **software engineering internships and collaborative projects**
+- 🎓 Incoming M.S. Software Engineering student at UC Irvine
+- 💻 Interested in full-stack development, AI, and software engineering
+- 🎮 Built interactive Roblox experiences with 50,000+ total visits
+- 📹 Built a web app that contributed to an increase of ~4,000 subscribers on YouTube in a short time frame
+- 🧪 Built educational apps that enhanced undergraduate learning and gained overwhelmingly positive feedback
+- 🌱 Currently learning about AI-powered applications and scalable systems
+- 🔎 Seeking software engineering internship opportunities
 
 ## Featured Projects
 
 ### Reddit Product Sentiment Analyzer
 
-An AI-powered web application that gathers Reddit discussions about consumer products and turns them into useful sentiment insights. It helps users quickly understand common opinions, praise, and complaints before making a purchase.
+An AI-powered application that analyzes Reddit discussions to summarize product sentiment, common praise, and recurring complaints.
 
-`React` `TypeScript` `Python` `FastAPI` `Reddit API` `AI/NLP`
-[Link](https://github.com/bmshin02/Product-Sentiment-Analyzer)
+[Source Code](https://github.com/bmshin02/Product-Sentiment-Analyzer)  
+
+`React` `TypeScript` `Python` `FastAPI` `AI/NLP`
 
 ### Ranking Video Compiler
 
-A full-stack video editing application for importing short-form clips, arranging them into rankings, trimming footage, and compiling the final video through an automated media-processing pipeline.
+A full-stack video editor for importing, arranging, trimming, and compiling short-form clips through an automated media-processing pipeline.
 
-`React` `TypeScript` `Node.js` `Express` `Python` `FFmpeg` `yt-dlp`
-[Link](https://github.com/bmshin02/Ranking-Clips-Complier)
+[Source Code](https://github.com/bmshin02/Ranking-Clips-Complier)  
 
-### Educational AR Applications
+`React` `TypeScript` `Node.js` `Python` `FFmpeg`
 
-Developed interactive augmented-reality learning experiences through UC Riverside's XCITE Center for Teaching and Learning. These applications introduced chemistry and computer science concepts to students through hands-on visualization and interaction.
+### Personal Portfolio
 
-`Unity` `C#` `AR` `iOS` `Xcode`
-[Link](https://github.com/bmshin02/XCITE-Chem-Equilibrium-AR)
+A personal website showcasing my software engineering experience, education, and projects through a custom responsive interface.
 
-### Roblox Game Development
+[Live Website](https://bmshin.vercel.app/) · [Source Code](https://github.com/bmshin02/BSHIN-Personal-Website)  
 
-Designed and developed multiplayer gameplay systems, persistent player data, reusable interfaces, and modular game architecture. My published experiences have received more than **50,000 total visits**.
+`React` `TypeScript` `Tailwind CSS` `Vite`
 
-`Roblox Studio` `Luau` `Game Systems` `Data Persistence` `UI Development`
-
-## Technical Skills
+## Skills
 
 **Languages:** Python, JavaScript, TypeScript, C#, Java, C++, PHP, SQL, Luau  
-**Frontend:** React, HTML, CSS, Tailwind CSS, Vite  
-**Backend & Data:** Node.js, Express, FastAPI, PostgreSQL, MySQL, REST APIs  
-**Tools:** Git, GitHub, VS Code, Unity, Roblox Studio, Xcode, TestFlight, FFmpeg
+**Technologies:** React, Node.js, Express, FastAPI, PostgreSQL, MySQL, Unity, Git
 
-## What I'm Working On
+## Let's Connect
 
-- Building AI projects that turn unstructured online discussions into useful insights
-- Improving my full-stack development and software architecture skills
-- Exploring practical applications of natural language processing and computer vision
-- Preparing for software engineering internship opportunities
-
-## Connect With Me
-
-- 🌐 [Portfolio](https://bmshin.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bmshin02/)
-- 📧 [Email](mailto:bmshin02@gmail.com)
-
-Thanks for visiting my profile! Feel free to explore my repositories or reach out if you'd like to collaborate.
+I'm always interested in learning, collaborating, and discussing new opportunities. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bmshin02/) or [email](mailto:bmshin02@gmail.com).
