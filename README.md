@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Shin 👋
 
-I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Computer Science from UC Riverside. I enjoy building practical, user-focused software across full-stack development, AI, interactive applications, and game systems.
+I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Computer Science from UC Riverside. I enjoy building practical, user-focused software across full-stack development, AI, interactive applications, and systems.
 
 I'm currently expanding my experience with modern web technologies and AI while looking for opportunities to contribute, learn, and grow as a software engineer.
 
@@ -8,7 +8,6 @@ I'm currently expanding my experience with modern web technologies and AI while 
 
 - 🎓 M.S. in Software Engineering student at **UC Irvine**
 - 🏫 B.S. in Computer Science from **UC Riverside**
-- 💻 Interested in **software engineering, full-stack development, and AI**
 - 🧠 Currently learning more about **AI-powered applications and scalable software systems**
 - 🎮 Built interactive Roblox experiences with **50,000+ total visits**
 - 📹 Built a web app that contributed to an **increase of ~4,000 subscribers on YouTube in a short time frame**
@@ -22,18 +21,21 @@ I'm currently expanding my experience with modern web technologies and AI while 
 An AI-powered web application that gathers Reddit discussions about consumer products and turns them into useful sentiment insights. It helps users quickly understand common opinions, praise, and complaints before making a purchase.
 
 `React` `TypeScript` `Python` `FastAPI` `Reddit API` `AI/NLP`
+[Link](https://github.com/bmshin02/Product-Sentiment-Analyzer)
 
 ### Ranking Video Compiler
 
 A full-stack video editing application for importing short-form clips, arranging them into rankings, trimming footage, and compiling the final video through an automated media-processing pipeline.
 
 `React` `TypeScript` `Node.js` `Express` `Python` `FFmpeg` `yt-dlp`
+[Link](https://github.com/bmshin02/Ranking-Clips-Complier)
 
 ### Educational AR Applications
 
 Developed interactive augmented-reality learning experiences through UC Riverside's XCITE Center for Teaching and Learning. These applications introduced chemistry and computer science concepts to students through hands-on visualization and interaction.
 
 `Unity` `C#` `AR` `iOS` `Xcode`
+[Link](https://github.com/bmshin02/XCITE-Chem-Equilibrium-AR)
 
 ### Roblox Game Development
 
