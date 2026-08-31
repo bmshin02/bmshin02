@@ -6,7 +6,7 @@ I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Com
 
 ## About Me
 
-- 🎓 Incoming M.S. Software Engineering student at UC Irvine
+- 🎓 M.S. Software Engineering student at UC Irvine
 - 💻 Interested in full-stack development, AI, and software engineering
 - 🎮 Built interactive Roblox experiences with 50,000+ total visits
 - 📹 Built a web app that contributed to an increase of ~4,000 subscribers on YouTube in a short time frame
