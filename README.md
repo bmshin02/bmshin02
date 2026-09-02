@@ -2,7 +2,7 @@
 
 I'm a **Master of Software Engineering student at UC Irvine** with a B.S. in Computer Science from UC Riverside. I enjoy building practical software across full-stack development, AI, educational technology, and interactive applications.
 
-[Portfolio](https://bmshin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bmshin02/) · [Email](mailto:bmshin02@gmail.com)
+[Portfolio](https://bmshin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bmshin02/) · [bmshin02@gmail.com](mailto:bmshin02@gmail.com)
 
 ## About Me
 
@@ -47,4 +47,4 @@ A personal website showcasing my software engineering experience, education, and
 
 ## Let's Connect
 
-I'm always interested in learning, collaborating, and discussing new opportunities. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bmshin02/) or [email](mailto:bmshin02@gmail.com).
+I'm always interested in learning, collaborating, and discussing new opportunities. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/bmshin02/) or [bmshin02@gmail.com](mailto:bmshin02@gmail.com).
