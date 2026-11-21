@@ -20,38 +20,23 @@ I'm a **Software Engineer at a startup** and a **Master of Software Engineering 
 <td width="50%" valign="top">
 
 ### ⚡ Fast Path
-<sub>**Claude Impact Lab** · Nov. 2026</sub>
+<sub>Claude Impact Lab · Nov. 2026</sub>
 
-A multi-agent Claude system that helps Orange County homeowners fill out backyard-home permit forms. It edits the city's own PDF and flags outdated legal citations in red.
+Multi-agent Claude system that fills out city permit PDFs for homeowners and flags outdated legal citations.
 
-**→** Coordinator agent + specialists for reading, legal checks, and forms<br>
-**→** Shipped by a four-person team in a 4.5-hour build
-
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[**Live Demo**](https://fast-path-oc.vercel.app) · [**Source**](https://github.com/bmshin02/fast-path-oc)
+<sub>Claude API · Next.js · TypeScript</sub><br>
+[Live Demo](https://fast-path-oc.vercel.app) · [Source](https://github.com/bmshin02/fast-path-oc)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛍️ Thrift Lens
-<sub>**UCSD Hackathon** · Oct. 2026</sub>
+<sub>UCSD Hackathon · Oct. 2026</sub>
 
-A wearable AI assistant that whispers resale prices to thrift shoppers. I built the backend and the browser camera app with live detection boxes.
+Wearable AI assistant that spots thrift items with YOLO and whispers resale prices from Gemini.
 
-**→** Spots items with YOLO and prices them with Gemini, in parallel<br>
-**→** ~80 pytest tests, shipped in a 5-hour hackathon
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-
-[**Demo Video**](https://www.youtube.com/watch?v=-nqxK2U75vo) · [**Source**](https://github.com/MasonD-007/lensthrift)
+<sub>Python · FastAPI · Gemini API · YOLO</sub><br>
+[Demo Video](https://www.youtube.com/watch?v=-nqxK2U75vo) · [Source](https://github.com/MasonD-007/lensthrift)
 
 </td>
 </tr>
@@ -59,39 +44,23 @@ A wearable AI assistant that whispers resale prices to thrift shoppers. I built 
 <td width="50%" valign="top">
 
 ### 🎬 Ranking Video Compiler
-<sub>**Personal Project** · Jun. 2026 – Jul. 2026</sub>
+<sub>Personal Project · Jun. – Jul. 2026</sub>
 
-A full-stack tool that turns TikTok, Instagram, Reddit, and YouTube clips into ranked short-form videos, with drag-and-drop ranking, trimming, and previews.
+Turns social clips into ranked short-form videos. Powered ~40 videos with **500K views** in a month.
 
-**→** Powered ~40 videos: **500K views** and **2K subscribers** in a month<br>
-**→** Compiles a 60-second video in 3–5 minutes
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-
-[**Source**](https://github.com/bmshin02/Ranking-Clips-Compiler)
+<sub>React · TypeScript · Express · FFmpeg</sub><br>
+[Source](https://github.com/bmshin02/Ranking-Clips-Compiler)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Product Sentiment Analyzer
-<sub>**Personal Project** · Jul. 2026 – Present</sub>
+<sub>Personal Project · Jul. 2026 – Present</sub>
 
-A full-stack app that turns Reddit discussions into what people like and dislike about products, shown in a dashboard of each product's strengths and complaints.
+Turns Reddit discussions into a dashboard of what people like and dislike about products.
 
-**→** Python text-analysis pipeline behind a FastAPI backend<br>
-**→** Deployed on Vercel + Render with pytest-tested services
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-[**Live Site**](https://product-sentiment-analyzer-amber.vercel.app/) · [**Source**](https://github.com/bmshin02/Product-Sentiment-Analyzer)
+<sub>React · Python · FastAPI · Render</sub><br>
+[Live Site](https://product-sentiment-analyzer-amber.vercel.app/) · [Source](https://github.com/bmshin02/Product-Sentiment-Analyzer)
 
 </td>
 </tr>
