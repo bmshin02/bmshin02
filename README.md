@@ -1,12 +1,12 @@
 # Hi, I'm Brandon Shin 👋
 
-I'm a **Software Engineer at Beyond3** and a **Master of Software Engineering student at UC Irvine**. I build full-stack apps and AI agents, lately multi-agent systems with Claude and the OpenAI Agents SDK, the MCP servers that feed them, and the React/Next.js apps around them.
+I'm a **Software Engineer at a startup** and a **Master of Software Engineering student at UC Irvine**. I build full-stack apps and AI agents, lately multi-agent systems with Claude and the OpenAI Agents SDK, the MCP servers that feed them, and the React/Next.js apps around them.
 
 [Portfolio](https://bmshin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bmshin02/) · [bmshin02@gmail.com](mailto:bmshin02@gmail.com)
 
 ## About Me
 
-- 💼 Software Engineer at **Beyond3**, building AI agents and full-stack features for a startup that rates 2,500+ defense companies. I shipped 95 pull requests in my first six weeks.
+- 💼 Software Engineer at a **startup** that rates 2,500+ defense companies, building AI agents and full-stack features. I shipped 95 pull requests in my first six weeks.
 - 🤖 Built the platform's AI assistant and the MCP server behind it (~60 data tools), and raised agent routing accuracy from 40% to 88%
 - 🎓 M.S. Software Engineering at UC Irvine (Dec. 2027), $20,000 Student Fellowship recipient · B.S. Computer Science, UC Riverside
 - 🏆 Built projects at the Claude Impact Lab, UCSD, and OCC Hacks hackathons, and mentored the team that won ZotHack 2026
@@ -17,7 +17,7 @@ I'm a **Software Engineer at Beyond3** and a **Master of Software Engineering st
 
 | Role | Company | When |
 | --- | --- | --- |
-| Software Engineer | Beyond3 | Oct. 2026 – Present |
+| Software Engineer | Startup | Oct. 2026 – Present |
 | Software Engineer Intern | Tatum Tech | Jul. 2026 – Sep. 2026 |
 | Technology Instructor | Black Rocket Productions | Mar. 2026 – May 2026 |
 | Undergraduate Software Engineer | XCITE, UC Riverside | Apr. 2023 – Jun. 2025 |
