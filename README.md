@@ -99,26 +99,21 @@ A full-stack app that turns Reddit discussions into what people like and dislike
 
 <details>
 <summary><b>More projects</b></summary>
+<br>
 
-- **[Talent Bridge](https://github.com/gmatt20/talent-bridge)** · OCC Hacks 2026: led UI/UX and built the React/TypeScript frontend of an AI platform matching students to projects
-- **[SignLingo](https://devpost.com/software/signlingo-l79ict)** · ZotHack 2026 Winner: mentored three UCI students to a Mac app that reads fingerspelling live (`Python` `OpenCV`)
-- **[Personal Portfolio](https://bmshin.vercel.app/)**: my website, built so adding a project only means adding data (`React` `TypeScript` `Tailwind CSS`)
-- **[Fish.exe](https://www.roblox.com/games/96878044536108/Fish-exe)**: Roblox fish-collecting game with a mutation system that mixes visual traits across fish (`Luau`)
-- **[Webmining](https://www.youtube.com/watch?v=_H0-aysFvy8)**: solo-built Roblox mining game with a weather system shared across all servers (`Luau`)
-- **[ChemEQ](https://www.youtube.com/watch?v=eLVTgadYfOQ)**: live chemistry simulation used by 50+ students over two years of classes (`Unity` `C#` `iOS`)
-- **Cypher Code**: AR app that teaches encryption, demoed to 100+ UC Riverside CS students (`Unity` `C#` `AR`)
-- **[CRISP Autonomous Car](https://www.youtube.com/watch?v=pNHY8S76BCI)**: self-driving Raspberry Pi car that reads traffic lights and speed-limit signs (`Python` `OpenCV` `Tesseract`)
-- **[Rhythm Plus](https://www.youtube.com/watch?v=5x_CPQOT2js)**: physical rhythm game on Arduino (`C++`)
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 🤝 **[Talent Bridge](https://github.com/gmatt20/talent-bridge)**<br><sub>OCC Hacks 2026</sub> | Led UI/UX for an AI platform matching students to projects | React · TypeScript |
+| 🏆 **[SignLingo](https://devpost.com/software/signlingo-l79ict)**<br><sub>ZotHack 2026 Winner · Mentor</sub> | Mac app that reads sign-language fingerspelling live | Python · OpenCV |
+| 🌐 **[Personal Portfolio](https://bmshin.vercel.app/)**<br><sub>Personal</sub> | Data-driven portfolio site with light and dark modes | React · Tailwind CSS |
+| 🐟 **[Fish.exe](https://www.roblox.com/games/96878044536108/Fish-exe)**<br><sub>Roblox</sub> | Fish-collecting game with a trait-mixing mutation system | Luau |
+| ⛏️ **[Webmining](https://www.youtube.com/watch?v=_H0-aysFvy8)**<br><sub>Roblox · Solo</sub> | Mining game with weather shared across all servers | Luau |
+| 🧪 **[ChemEQ](https://www.youtube.com/watch?v=eLVTgadYfOQ)**<br><sub>XCITE</sub> | Live chemistry simulation used by 50+ students | Unity · C# · iOS |
+| 🔐 **Cypher Code**<br><sub>XCITE</sub> | AR app teaching encryption to 100+ CS students | Unity · C# · AR |
+| 🚗 **[CRISP Autonomous Car](https://www.youtube.com/watch?v=pNHY8S76BCI)**<br><sub>Senior Design</sub> | Self-driving car that reads traffic lights and speed signs | Python · OpenCV |
+| 🎵 **[Rhythm Plus](https://www.youtube.com/watch?v=5x_CPQOT2js)**<br><sub>Embedded Systems</sub> | Physical rhythm game with button input synced to music | Arduino · C++ |
 
 </details>
-
-## Skills
-
-**Languages:** Python, TypeScript, JavaScript, SQL, Java, C++, C#, Swift, PHP, Luau  
-**Frameworks:** React, Next.js, Node.js, Express, FastAPI, Tailwind CSS, OpenAI Agents SDK, OpenCV  
-**Databases & Cloud:** PostgreSQL, MongoDB, Redis, GCP, Docker, Terraform, Vercel, GitHub Actions  
-**AI:** Claude API, Claude Code, OpenAI API, Gemini API, MCP  
-**Tools:** Git, Jira, Playwright, pytest, Vitest, Unity, AR/VR
 
 ## Let's Connect
 
