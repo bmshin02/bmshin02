@@ -117,4 +117,28 @@ A full-stack app that turns Reddit discussions into what people like and dislike
 
 ## Let's Connect
 
-I'm always happy to talk about AI agents, full-stack development, or new opportunities. Reach out through [LinkedIn](https://www.linkedin.com/in/bmshin02/) or [bmshin02@gmail.com](mailto:bmshin02@gmail.com).
+<div align="center">
+
+I'm always happy to talk about **AI agents**, **full-stack development**, or **new opportunities**.
+
+<table>
+<tr>
+<td align="center" width="200">
+<h3>🌐</h3>
+<b>Portfolio</b><br>
+<a href="https://bmshin.vercel.app/">bmshin.vercel.app</a>
+</td>
+<td align="center" width="200">
+<h3>💼</h3>
+<b>LinkedIn</b><br>
+<a href="https://www.linkedin.com/in/bmshin02/">in/bmshin02</a>
+</td>
+<td align="center" width="200">
+<h3>✉️</h3>
+<b>Email</b><br>
+<a href="mailto:bmshin02@gmail.com">bmshin02@gmail.com</a>
+</td>
+</tr>
+</table>
+
+</div>
