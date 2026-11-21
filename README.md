@@ -123,19 +123,16 @@ I'm always happy to talk about **AI agents**, **full-stack development**, or **n
 
 <table>
 <tr>
-<td align="center" width="200">
-<h3>🌐</h3>
-<b>Portfolio</b><br>
+<td align="center" width="240">
+🌐 <b>Portfolio</b><br>
 <a href="https://bmshin.vercel.app/">bmshin.vercel.app</a>
 </td>
-<td align="center" width="200">
-<h3>💼</h3>
-<b>LinkedIn</b><br>
+<td align="center" width="240">
+💼 <b>LinkedIn</b><br>
 <a href="https://www.linkedin.com/in/bmshin02/">in/bmshin02</a>
 </td>
-<td align="center" width="200">
-<h3>✉️</h3>
-<b>Email</b><br>
+<td align="center" width="240">
+✉️ <b>Email</b><br>
 <a href="mailto:bmshin02@gmail.com">bmshin02@gmail.com</a>
 </td>
 </tr>
