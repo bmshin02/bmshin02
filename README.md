@@ -6,7 +6,7 @@ I'm a **Software Engineer at a startup** and a **Master of Software Engineering 
 
 ## About Me
 
-- 💼 Software Engineer at a **startup** that rates 2,500+ defense companies, building AI agents and full-stack features. I shipped 95 pull requests in my first six weeks.
+- 💼 Software Engineer at a **startup** that rates 2,500+ defense companies, building AI agents and full-stack features.
 - 🤖 Built the platform's AI assistant and the MCP server behind it (~60 data tools), and raised agent routing accuracy from 40% to 88%
 - 🎓 M.S. Software Engineering at UC Irvine (Dec. 2027), $20,000 Student Fellowship recipient · B.S. Computer Science, UC Riverside
 - 🏆 Built projects at the Claude Impact Lab, UCSD, and OCC Hacks hackathons, and mentored the team that won ZotHack 2026
