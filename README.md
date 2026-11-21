@@ -15,56 +15,12 @@ I'm a **Software Engineer at a startup** and a **Master of Software Engineering 
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Fast Path
-<sub>Claude Impact Lab · Nov. 2026</sub>
-
-Multi-agent Claude system that fills out city permit PDFs for homeowners and flags outdated legal citations.
-
-<sub>Claude API · Next.js · TypeScript</sub><br>
-[Live Demo](https://fast-path-oc.vercel.app) · [Source](https://github.com/bmshin02/fast-path-oc)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Thrift Lens
-<sub>UCSD Hackathon · Oct. 2026</sub>
-
-Wearable AI assistant that spots thrift items with YOLO and whispers resale prices from Gemini.
-
-<sub>Python · FastAPI · Gemini API · YOLO</sub><br>
-[Demo Video](https://www.youtube.com/watch?v=-nqxK2U75vo) · [Source](https://github.com/MasonD-007/lensthrift)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Ranking Video Compiler
-<sub>Personal Project · Jun. – Jul. 2026</sub>
-
-Turns social clips into ranked short-form videos. Powered ~40 videos with **500K views** in a month.
-
-<sub>React · TypeScript · Express · FFmpeg</sub><br>
-[Source](https://github.com/bmshin02/Ranking-Clips-Compiler)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Product Sentiment Analyzer
-<sub>Personal Project · Jul. 2026 – Present</sub>
-
-Turns Reddit discussions into a dashboard of what people like and dislike about products.
-
-<sub>React · Python · FastAPI · Render</sub><br>
-[Live Site](https://product-sentiment-analyzer-amber.vercel.app/) · [Source](https://github.com/bmshin02/Product-Sentiment-Analyzer)
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| ⚡ **Fast Path**<br><sub>Claude Impact Lab · Nov. 2026</sub><br><sub>[Live Demo](https://fast-path-oc.vercel.app) · [Source](https://github.com/bmshin02/fast-path-oc)</sub> | Multi-agent Claude system that fills out city permit PDFs for homeowners and flags outdated legal citations | Claude API · Next.js · TypeScript |
+| 🛍️ **Thrift Lens**<br><sub>UCSD Hackathon · Oct. 2026</sub><br><sub>[Demo Video](https://www.youtube.com/watch?v=-nqxK2U75vo) · [Source](https://github.com/MasonD-007/lensthrift)</sub> | Wearable AI assistant that spots thrift items with YOLO and whispers resale prices from Gemini | Python · FastAPI · Gemini API |
+| 🎬 **Ranking Video Compiler**<br><sub>Personal · Jun. – Jul. 2026</sub><br><sub>[Source](https://github.com/bmshin02/Ranking-Clips-Compiler)</sub> | Turns social clips into ranked short-form videos; powered ~40 videos with **500K views** in a month | React · Express · FFmpeg |
+| 📊 **Product Sentiment Analyzer**<br><sub>Personal · Jul. 2026 – Present</sub><br><sub>[Live Site](https://product-sentiment-analyzer-amber.vercel.app/) · [Source](https://github.com/bmshin02/Product-Sentiment-Analyzer)</sub> | Turns Reddit discussions into a dashboard of what people like and dislike about products | React · Python · FastAPI |
 
 <details>
 <summary><b>More projects</b></summary>
