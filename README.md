@@ -13,76 +13,96 @@ I'm a **Software Engineer at a startup** and a **Master of Software Engineering 
 - 📹 Built a video tool that produced ~40 YouTube videos, reaching 500K views and 2K subscribers in a month
 - 🥽 Built educational AR/VR apps in Unity for UC Riverside classes and Roblox games in Luau with 50,000+ total visits
 
-## Experience
-
-| Role | Company | When |
-| --- | --- | --- |
-| Software Engineer | Startup | Oct. 2026 – Present |
-| Software Engineer Intern | Tatum Tech | Jul. 2026 – Sep. 2026 |
-| Technology Instructor | Black Rocket Productions | Mar. 2026 – May 2026 |
-| Undergraduate Software Engineer | XCITE, UC Riverside | Apr. 2023 – Jun. 2025 |
-
 ## Featured Projects
 
-### Fast Path · Claude Impact Lab
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A multi-agent Claude system that helps Orange County homeowners fill out backyard-home permit forms. A coordinator agent hands work to specialist agents for reading, legal checks, and forms, then edits the city's own PDF and marks outdated legal citations in red. Built with a four-person team in 4.5 hours.
+### ⚡ Fast Path
+<sub>**Claude Impact Lab** · Nov. 2026</sub>
 
-[Live Demo](https://fast-path-oc.vercel.app) · [Source Code](https://github.com/bmshin02/fast-path-oc)
+A multi-agent Claude system that helps Orange County homeowners fill out backyard-home permit forms. It edits the city's own PDF and flags outdated legal citations in red.
 
-`Claude API` `Multi-Agent` `Next.js` `TypeScript` `Vercel`
+**→** Coordinator agent + specialists for reading, legal checks, and forms<br>
+**→** Shipped by a four-person team in a 4.5-hour build
 
-### Thrift Lens · UCSD Hackathon
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-A wearable AI assistant that whispers resale prices to thrift shoppers. I built the backend and web app: a FastAPI pipeline that spots items with YOLO and prices them with Gemini, plus a browser camera app with live detection boxes. I also wrote about 80 pytest tests.
+[**Live Demo**](https://fast-path-oc.vercel.app) · [**Source**](https://github.com/bmshin02/fast-path-oc)
 
-[Demo Video](https://www.youtube.com/watch?v=-nqxK2U75vo) · [Source Code](https://github.com/MasonD-007/lensthrift)
+</td>
+<td width="50%" valign="top">
 
-`Python` `FastAPI` `YOLO` `Gemini API` `pytest`
+### 🛍️ Thrift Lens
+<sub>**UCSD Hackathon** · Oct. 2026</sub>
 
-### Product Sentiment Analyzer
+A wearable AI assistant that whispers resale prices to thrift shoppers. I built the backend and the browser camera app with live detection boxes.
 
-A full-stack app that turns Reddit discussions into what people like and dislike about products, with a Python text-analysis pipeline, a FastAPI backend, and a React dashboard of each product's strengths and complaints.
+**→** Spots items with YOLO and prices them with Gemini, in parallel<br>
+**→** ~80 pytest tests, shipped in a 5-hour hackathon
 
-[Live Website](https://product-sentiment-analyzer-amber.vercel.app/) · [Source Code](https://github.com/bmshin02/Product-Sentiment-Analyzer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-`React` `TypeScript` `Python` `FastAPI` `Vercel` `Render`
+[**Demo Video**](https://www.youtube.com/watch?v=-nqxK2U75vo) · [**Source**](https://github.com/MasonD-007/lensthrift)
 
-### Ranking Video Compiler
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack tool that turns TikTok, Instagram, Reddit, and YouTube clips into ranked short-form videos, with drag-and-drop ranking, trimming, and previews. It compiles a 60-second video in 3–5 minutes and powered a YouTube channel to 500K views in a month.
+### 🎬 Ranking Video Compiler
+<sub>**Personal Project** · Jun. 2026 – Jul. 2026</sub>
 
-[Source Code](https://github.com/bmshin02/Ranking-Clips-Compiler)
+A full-stack tool that turns TikTok, Instagram, Reddit, and YouTube clips into ranked short-form videos, with drag-and-drop ranking, trimming, and previews.
 
-`React` `TypeScript` `Express` `Python` `FFmpeg`
+**→** Powered ~40 videos: **500K views** and **2K subscribers** in a month<br>
+**→** Compiles a 60-second video in 3–5 minutes
 
-### Talent Bridge · OCC Hacks 2026
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-An AI platform that matches students to business and nonprofit projects. I led UI/UX and built the React/TypeScript frontend: onboarding, dashboards, AI match scores with reasons, and an accessible light/dark design.
+[**Source**](https://github.com/bmshin02/Ranking-Clips-Compiler)
 
-[Source Code](https://github.com/gmatt20/talent-bridge)
+</td>
+<td width="50%" valign="top">
 
-`React` `TypeScript` `Claude Code` `Accessibility`
+### 📊 Product Sentiment Analyzer
+<sub>**Personal Project** · Jul. 2026 – Present</sub>
 
-### SignLingo · ZotHack 2026 Winner (Mentor)
+A full-stack app that turns Reddit discussions into what people like and dislike about products, shown in a dashboard of each product's strengths and complaints.
 
-I mentored three UCI students to build and win with a Mac app that recognizes all 26 fingerspelling letters live from a webcam.
+**→** Python text-analysis pipeline behind a FastAPI backend<br>
+**→** Deployed on Vercel + Render with pytest-tested services
 
-[Devpost](https://devpost.com/software/signlingo-l79ict)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-`Python` `OpenCV`
+[**Live Site**](https://product-sentiment-analyzer-amber.vercel.app/) · [**Source**](https://github.com/bmshin02/Product-Sentiment-Analyzer)
 
-### Personal Portfolio
-
-My personal website, built so adding a new project only means adding data.
-
-[Live Website](https://bmshin.vercel.app/) · [Source Code](https://github.com/bmshin02/BSHIN-Personal-Website)
-
-`React` `TypeScript` `Tailwind CSS` `Vercel`
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More projects</b></summary>
 
+- **[Talent Bridge](https://github.com/gmatt20/talent-bridge)** · OCC Hacks 2026: led UI/UX and built the React/TypeScript frontend of an AI platform matching students to projects
+- **[SignLingo](https://devpost.com/software/signlingo-l79ict)** · ZotHack 2026 Winner: mentored three UCI students to a Mac app that reads fingerspelling live (`Python` `OpenCV`)
+- **[Personal Portfolio](https://bmshin.vercel.app/)**: my website, built so adding a project only means adding data (`React` `TypeScript` `Tailwind CSS`)
 - **[Fish.exe](https://www.roblox.com/games/96878044536108/Fish-exe)**: Roblox fish-collecting game with a mutation system that mixes visual traits across fish (`Luau`)
 - **[Webmining](https://www.youtube.com/watch?v=_H0-aysFvy8)**: solo-built Roblox mining game with a weather system shared across all servers (`Luau`)
 - **[ChemEQ](https://www.youtube.com/watch?v=eLVTgadYfOQ)**: live chemistry simulation used by 50+ students over two years of classes (`Unity` `C#` `iOS`)
